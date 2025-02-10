@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🌎 Hello, World! I'm a Backend Developer! 🚀
 
-<!--
-**funmelon64/funmelon64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
 
-Here are some ideas to get you started:
+I'm a **backend developer** working with **Go** and **PHP**, occasionally experimenting with **Flutter**.
+ In my free time, I enjoy exploring **C++, C#**, game development, and game engines. 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm studying to become a **Software Architect** and working on a **long-distance transportation project**. 🚌
+
+### 🔥 What am I into?
+
+- Backend development and high-load systems 🏗️
+- Game development and game engines 🎮
+- Software architecture and system design 🧠
+- Exploring new technologies and tools 🛠️
+
+### 📫 How to Reach Me?
+
+- GitHub: *You're already here!* 😃
+- Telegram: 📩 @NikitaApo22
+- Email: ✉️ morph@fm64.me
